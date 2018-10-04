@@ -6,6 +6,6 @@ je suis contraint d’écrire du texte pour meubler un peu :)
 pour cet exercice je compte remplir les objectifs
 avec 4 commits comme demandé et au minimum deux fichiers.
 
-Après réflection je vais créer un fichier avec toutes les idées que j’ai puis 
+Après réflextion je vais créer un fichier avec toutes les idées que j’ai puis 
 je ferais un ou plusieurs choix 
 
